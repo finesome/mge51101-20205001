@@ -1,5 +1,9 @@
 # Project proposal
 
+## Data searching
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Google Dataset Search](https://datasetsearch.research.google.com)
+
 ## Feasible topics:
 - real-time object detection on smartphones (Open Images V6 dataset)
 - medical image segmentation (brain tumors, pneumonia)
