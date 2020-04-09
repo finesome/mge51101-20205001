@@ -19,7 +19,9 @@ to the problem of noise reduction in low-dose CT images.
 
 CT, or computed tomography, is an imaging procedure which captures multiple scans from different angles and then produces a set of tomographic (cross-sectional) slices using specific processing algorithms. CT is widely used in medical imaging for screening and detecting diseases. In this project, I will focus on abdomen CT images. An example of such CT image is shown below.
 
-![Abdomen CT slice](https://www.radiologyinfo.org/gallery-items/images/abdo-ct-norm.jpg)
+<p align="center">
+  <img src="https://www.radiologyinfo.org/gallery-items/images/abdo-ct-norm.jpg" alt="Abdomen CT slice" />
+</p>
 
 CT images are often taken after injection of contrast, which highlights specific targets in the human body. Different contrasts require different wait times; these are called phases. More details are [here](https://en.wikipedia.org/wiki/Contrast_CT).
 
