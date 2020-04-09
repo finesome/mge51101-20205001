@@ -1,25 +1,34 @@
 # Project proposal
 
 ## Problem
+
 Low-dose CT quality enhancement with deep learning
 
 ### Problem definition
-CT is an X-ray based imaging technique, which obtains multiple 2D images and then reconstructs them using specific reconstruction algorithms. 
-Image quality in CT is connected to the number of slices and the power of X-ray (dose). However, the amount of ionizing radiation is pretty high, 
-and can be dangerous for human. We can obtain target images from low-dose CT procedure, but such images contain noise and 
-can present difficulties in detection of abnormalities. 
+
+CT is an X-ray based imaging technique, which obtains multiple 2D images and then reconstructs them using specific reconstruction algorithms.
+Image quality in CT is connected to the number of slices and the power of X-ray (dose). However, the amount of ionizing radiation is pretty high,
+and can be dangerous for human. We can obtain target images from low-dose CT procedure, but such images contain noise and can present difficulties in detection of abnormalities.
 
 ### Goal
-In this project, the goal is to apply deep learning, particularly CNNs, 
+
+In this project, the goal is to apply deep learning, particularly CNNs,
 to the problem of noise reduction in low-dose CT images.
 
 ## Data
+
+CT, or computed tomography, is an imaging procedure which captures multiple scans from different angles and then produces a set of tomographic (cross-sectional) slices using specific processing algorithms. CT is widely used in medical imaging for screening and detecting diseases. In this project, I will focus on abdomen CT images. An example of such CT image is shown below.
+
+![Abdomen CT slice](https://www.radiologyinfo.org/gallery-items/images/abdo-ct-norm.jpg)
+
+
+
 ### Hospital data
 
-
 ## Evaluation
+
 In order to evaluate the models, two metric are commonly used:
+
 - Peak signal-to-noise ratio (PSNR)
-  - 
+  
 - Structural similarity index (SSIM)
-  - 
