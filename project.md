@@ -60,7 +60,9 @@ PSNR is ratio between the maximum possible signal value (power) and the power of
 
 <!-- $$PSNR = 10 * log_{10}(\frac{MAX_I^2}{MSE})$$
 $$MSE = \frac{1}{MN} \sum_0^{M-1} \sum_0^{N-1} ||f(i,j) - g(i,j)||^2$$ -->
-![PSNR and MSE equation](./assets/psnr.png)
+<p align="center">
+  <img src="./assets/psnr.png" alt="PSNR and MSE equations" />
+</p>
 
 Logarithmic decibel scale is used because signals have a very wide dynamic range. PSNR is a quantitative measure for comparison of image enhancement algorithms. In general, this is closely related to MSE, so a network architecture trained with MSE loss would also increase PSNR.
   
@@ -69,9 +71,11 @@ Logarithmic decibel scale is used because signals have a very wide dynamic range
 SSIM is another metric for measuring similarity between a target image and a reference image. It was designed to improve upon PSNR. SSIM is a perceptual metric, which captures structural information. It is defined as below:
 
 <!-- $$SSIM(x,y) = \frac{(2\mu_x\mu_y + c_1)(2\sigma_{xy} + c_2)}{(\mu_x^2 + \mu_y^2 + c_1)(\sigma_x^2 + \sigma_y^2 + c_2)}$$ -->
-![SSIM equation](./assets/ssim.png)
+<p align="center">
+  <img src="./assets/ssim.png" alt="SSIM equation" />
+</p>
 
-SSIM is usually calculated on a window of a specific size $N \times N$.
+SSIM is usually calculated on a window of a specific size NxN.
 
 ## Models
 
