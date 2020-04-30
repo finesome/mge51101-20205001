@@ -1,0 +1,28 @@
+Epoch: 100, Batch size: 128, Optimizer: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.0001
+)
+train accuracy: 30.96%, test accuracy: 44.56%
+epoch:1, train_loss: 1.8041, test_loss: 1.4997
+train accuracy: 71.09%, test accuracy: 75.30%
+epoch:11, train_loss: 0.8239, test_loss: 0.7166
+train accuracy: 78.46%, test accuracy: 81.18%
+epoch:21, train_loss: 0.6285, test_loss: 0.5601
+train accuracy: 81.80%, test accuracy: 83.22%
+epoch:31, train_loss: 0.5319, test_loss: 0.5174
+train accuracy: 83.71%, test accuracy: 83.63%
+epoch:41, train_loss: 0.4778, test_loss: 0.4915
+train accuracy: 85.45%, test accuracy: 84.51%
+epoch:51, train_loss: 0.4295, test_loss: 0.4720
+train accuracy: 86.43%, test accuracy: 85.30%
+epoch:61, train_loss: 0.3985, test_loss: 0.4581
+train accuracy: 87.49%, test accuracy: 85.45%
+epoch:71, train_loss: 0.3708, test_loss: 0.4548
+train accuracy: 88.27%, test accuracy: 86.12%
+epoch:81, train_loss: 0.3461, test_loss: 0.4554
+train accuracy: 88.83%, test accuracy: 85.84%
+epoch:91, train_loss: 0.3279, test_loss: 0.4601

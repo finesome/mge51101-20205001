@@ -1,0 +1,41 @@
+
+train accuracy: 18.91%, test accuracy: 22.95%
+epoch:1, train_loss: 2.1341, test_loss: 2.0563
+train accuracy: 37.09%, test accuracy: 40.62%
+epoch:11, train_loss: 1.7050, test_loss: 1.6319
+train accuracy: 42.12%, test accuracy: 45.98%
+epoch:21, train_loss: 1.5836, test_loss: 1.4983
+train accuracy: 45.08%, test accuracy: 49.18%
+epoch:31, train_loss: 1.5011, test_loss: 1.4138
+train accuracy: 47.07%, test accuracy: 50.85%
+epoch:41, train_loss: 1.4517, test_loss: 1.3617
+train accuracy: 48.56%, test accuracy: 52.58%
+epoch:51, train_loss: 1.4165, test_loss: 1.3219
+train accuracy: 49.63%, test accuracy: 54.05%
+epoch:61, train_loss: 1.3880, test_loss: 1.2938
+train accuracy: 50.92%, test accuracy: 54.81%
+epoch:71, train_loss: 1.3528, test_loss: 1.2679
+train accuracy: 52.17%, test accuracy: 55.85%
+epoch:81, train_loss: 1.3293, test_loss: 1.2469
+train accuracy: 52.73%, test accuracy: 56.30%
+epoch:91, train_loss: 1.3051, test_loss: 1.2269
+train accuracy: 53.94%, test accuracy: 57.30%
+epoch:101, train_loss: 1.2794, test_loss: 1.2035
+train accuracy: 55.12%, test accuracy: 58.01%
+epoch:111, train_loss: 1.2564, test_loss: 1.1785
+train accuracy: 55.53%, test accuracy: 58.56%
+epoch:121, train_loss: 1.2398, test_loss: 1.1628
+train accuracy: 56.27%, test accuracy: 59.14%
+epoch:131, train_loss: 1.2227, test_loss: 1.1479
+train accuracy: 57.09%, test accuracy: 59.86%
+epoch:141, train_loss: 1.2035, test_loss: 1.1323
+train accuracy: 57.81%, test accuracy: 60.43%
+epoch:151, train_loss: 1.1855, test_loss: 1.1163
+train accuracy: 58.31%, test accuracy: 61.37%
+epoch:161, train_loss: 1.1692, test_loss: 1.1038
+train accuracy: 58.52%, test accuracy: 61.50%
+epoch:171, train_loss: 1.1633, test_loss: 1.0901
+train accuracy: 59.24%, test accuracy: 62.21%
+epoch:181, train_loss: 1.1438, test_loss: 1.0780
+train accuracy: 59.67%, test accuracy: 62.65%
+epoch:191, train_loss: 1.1323, test_loss: 1.0673
